@@ -1,0 +1,1 @@
+insert into Course (id, name) values (1000L, 'JPA in 100 Steps');
